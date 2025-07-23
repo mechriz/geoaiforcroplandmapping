@@ -1,0 +1,11 @@
+streamlit==1.35.0
+tensorflow==2.10.1
+numpy==1.26.4
+pandas==1.5.3
+scikit-learn==1.6.1
+scipy==1.9.3
+matplotlib==3.6.3
+seaborn==0.11.2
+geopandas==0.10.2
+imbalanced-learn==0.11.0
+category-encoders==2.6.3
